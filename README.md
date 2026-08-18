@@ -44,3 +44,4 @@ A cross-platform desktop application built with **Electron** and **Electron Forg
    ```bash
    git clone [https://github.com/SHADw9/japnese-bangla-vocab.git](https://github.com/SHADw9/japnese-bangla-vocab.git)
    cd japnese-bangla-vocab
+linux .deb app available
